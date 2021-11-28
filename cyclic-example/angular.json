@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "chartjs-plugin-cyclic-axis-example": {
+    "chartjs-plugin-cyclic-axis": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/chartjs-plugin-cyclic-axis-example",
+            "outputPath": "dist/chartjs-plugin-cyclic-axis",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -69,10 +69,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "chartjs-plugin-cyclic-axis-example:build:production"
+              "browserTarget": "chartjs-plugin-cyclic-axis:build:production"
             },
             "development": {
-              "browserTarget": "chartjs-plugin-cyclic-axis-example:build:development"
+              "browserTarget": "chartjs-plugin-cyclic-axis:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -80,7 +80,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "chartjs-plugin-cyclic-axis-example:build"
+            "browserTarget": "chartjs-plugin-cyclic-axis:build"
           }
         },
         "test": {
@@ -106,5 +106,5 @@
       }
     }
   },
-  "defaultProject": "chartjs-plugin-cyclic-axis-example"
+  "defaultProject": "chartjs-plugin-cyclic-axis"
 }
