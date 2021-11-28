@@ -1,5 +1,7 @@
+<img src="https://github.com/MaorAssayag/chartjs-plugin-cyclic-axis/blob/main/assets/chartjs-cyclic-axis-logo.svg" alt="Your image title" width="250"/>
+
 # chartjs-plugin-cyclic-axis
-A Chart.js plugin that enables cyclic pan functionality in linear scatter charts :bar_chart:
+Chart.js plugin that enables cyclic pan functionality in linear scatter charts :bar_chart:
 
 ### Installation
 `npm install --save chartjs-plugin-cyclic-axis`
