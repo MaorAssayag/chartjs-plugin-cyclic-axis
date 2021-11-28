@@ -2,6 +2,7 @@
   "name": "chartjs-plugin-cyclic-axis-example",
   "version": "1.0.0",
   "license": "MIT",
+  "homepage": "http://maorassayag.github.io/chartjs-plugin-cyclic-axis",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
