@@ -16,7 +16,6 @@ Chart.register(zoomPlugin);
 export class AppComponent implements AfterViewInit {
   title = 'chart.js plugin Cyclic Axis Example';
   data = [] as any;
-  name = 'Angular   6';
   canvas: any;
   pointerStyleData = [];
   myChart: Chart | undefined;
