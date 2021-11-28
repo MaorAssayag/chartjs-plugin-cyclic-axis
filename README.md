@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="//npmjs.com/package/chartjs-plugin-cyclic-axis"><img src="https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg" alt="Downloads"></a>
-  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/issues"><img src="https://img.shields.io/github/issues/maorassayag/chartjs-plugin-cyclic-axis" alt="Builds"></a>
-  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis"><img src="https://img.shields.io/github/stars/maorassayag/chartjs-plugin-cyclic-axis" alt="Coverage"></a>
-  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/maorassayag/chartjs-plugin-cyclic-axis" alt="Awesome"></a>
+  <a href="//npmjs.com/package/chartjs-plugin-cyclic-axis"><img src="https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg" alt="Version"></a>
+  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/issues"><img src="https://img.shields.io/github/issues/maorassayag/chartjs-plugin-cyclic-axis" alt="issues"></a>
+  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis"><img src="https://img.shields.io/github/stars/maorassayag/chartjs-plugin-cyclic-axis" alt="stars"></a>
+  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/maorassayag/chartjs-plugin-cyclic-axis" alt="LICENSE"></a>
 </p>
 
 ## Overview
