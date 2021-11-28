@@ -4,7 +4,9 @@
 Chart.js plugin that enables cyclic pan functionality in linear scatter charts :bar_chart:
 
 [![npm version](https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg)](//npmjs.com/package/chartjs-plugin-cyclic-axis)
-[![GitHub issues](https://img.shields.io/github/issues/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/issues) [![GitHub stars](https://img.shields.io/github/stars/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/stargazers)[![GitHub license](https://img.shields.io/github/license/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/issues)
+[![GitHub stars](https://img.shields.io/github/stars/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/stargazers)
+[![GitHub license](https://img.shields.io/github/license/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/blob/master/LICENSE)
 
 ### Live Demo [github page](https://maorassayag.github.io/chartjs-plugin-cyclic-axis/)
 
