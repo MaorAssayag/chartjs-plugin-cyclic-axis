@@ -1,15 +1,21 @@
-<img src="https://github.com/MaorAssayag/chartjs-plugin-cyclic-axis/blob/main/assets/chartjs-cyclic-axis-logo.svg" alt="Your image title" width="250"/>
+<p align="center">
+  <img src="assets/chartjs-cyclic-axis-logo.svg" alt="Your image title" width="250"/>
+</p>
 
-# chartjs-plugin-cyclic-axis
+<p align="center">
+  <a href="//npmjs.com/package/chartjs-plugin-cyclic-axis"><img src="https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg" alt="Downloads"></a>
+  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/issues"><img src="https://img.shields.io/github/issues/maorassayag/chartjs-plugin-cyclic-axis" alt="Builds"></a>
+  <a href="https://github.com/wisehackermonkey/zalgo-string-generator/stargazers"><img src="https://img.shields.io/github/stars/maorassayag/chartjs-plugin-cyclic-axis" alt="Coverage"></a>
+  <a href="https://github.com/maorassayag/chartjs-plugin-cyclic-axis/blob/master/LICENSE"><img src="https://img.shields.io/github/license/maorassayag/chartjs-plugin-cyclic-axis" alt="Awesome"></a>
+</p>
+
+## Overview
+
 Chart.js plugin that enables cyclic pan functionality in linear scatter charts :bar_chart:
 
-[![npm version](https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg)](//npmjs.com/package/chartjs-plugin-cyclic-axis)
-[![GitHub issues](https://img.shields.io/github/issues/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/issues)
-[![GitHub stars](https://img.shields.io/github/stars/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/stargazers)
-[![GitHub license](https://img.shields.io/github/license/wisehackermonkey/zalgo-string-generator)](https://github.com/wisehackermonkey/zalgo-string-generator/blob/master/LICENSE)
+Live Demo [github page](https://maorassayag.github.io/chartjs-plugin-cyclic-axis/)
 
-### Live Demo [github page](https://maorassayag.github.io/chartjs-plugin-cyclic-axis/)
-
+#
 ### Installation
 `npm install --save chartjs-plugin-cyclic-axis`
 
