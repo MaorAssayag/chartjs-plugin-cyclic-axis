@@ -1,6 +1,6 @@
 {
   "name": "chartjs-plugin-cyclic-axis",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.2",
   "description": "A Chart.js plugin that enables cyclic pan functionality in linear scatter charts.",
   "homepage": "https://github.com/MaorAssayag/chartjs-plugin-cyclic-axis",
   "author": "Maor Assayag",
