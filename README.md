@@ -3,6 +3,8 @@
 # chartjs-plugin-cyclic-axis
 Chart.js plugin that enables cyclic pan functionality in linear scatter charts :bar_chart:
 
+[![npm version](https://badge.fury.io/js/chartjs-plugin-cyclic-axis.svg)](//npmjs.com/package/chartjs-plugin-cyclic-axis)
+
 ### Installation
 `npm install --save chartjs-plugin-cyclic-axis`
 
