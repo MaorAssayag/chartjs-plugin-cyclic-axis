@@ -1,0 +1,31 @@
+{
+  "name": "chartjs-plugin-cyclic-axis",
+  "version": "1.0.0-alpha.0",
+  "description": "A Chart.js plugin that enables cyclic pan functionality in linear scatter charts.",
+  "license": "MIT",
+  "main": "dist/chartjs-plugin-cyclic-axis.cjs",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "test": "node test/spec",
+    "pretest": "npm run build"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "jest": "^26.6.3",
+    "rollup": "^2.55.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "peerDependencies": {
+    "chart.js": "^3.2.0",
+    "chartjs-plugin-zoom": "1.1.1"
+  },
+  "files": [
+    "dist",
+    "src"
+  ]
+}
